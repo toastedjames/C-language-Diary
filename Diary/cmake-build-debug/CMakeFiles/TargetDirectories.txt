@@ -1,3 +1,0 @@
-D:/Diary/cmake-build-debug/CMakeFiles/Diary.dir
-D:/Diary/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Diary/cmake-build-debug/CMakeFiles/rebuild_cache.dir
