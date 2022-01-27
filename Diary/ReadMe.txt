@@ -2,7 +2,7 @@
 
 This Diary Pager was created in mind, to serve the user a rich yet basic UI, Offline-based Diary.
 
-Firstly, click on green button read as "Code" on the first page of directory. It will show various options beneath. Then, Download the whole folder as a zip file and extract
+Firstly, click on green button read as "Code" on the first page of repository. It will show various options beneath. Then, Download the whole folder as a zip file and extract
 it to your desired location.
 
 After clicking and opening the folder. in the first page includes all the C source code files.
